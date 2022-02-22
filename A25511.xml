@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Answer of the officers at Whitehall to the letter from the officers of the Parliaments army in Scotland from Linlithgow, Oct. 22 with a return of the general and offcers [sic] in Scotland, thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25511</idno>
+            <idno type="STC">Wing A3298</idno>
+            <idno type="STC">ESTC R9750</idno>
+            <idno type="EEBO-CITATION">13284807</idno>
+            <idno type="OCLC">ocm 13284807</idno>
+            <idno type="VID">98781</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25511)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98781)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 444:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Answer of the officers at Whitehall to the letter from the officers of the Parliaments army in Scotland from Linlithgow, Oct. 22 with a return of the general and offcers [sic] in Scotland, thereunto.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Christopher Higgins ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98781:1"/>
+            <pb facs="tcp:98781:1" rendition="simple:additions"/>
+            <p>THE ANSWER OF THE OFFICERS at <hi>WHITEHALL</hi> TO THE LETTER FROM THE Officers of the Parliaments Army in <hi>Scotland</hi> from <hi>Linlithgow, Oct.</hi> 22. WITH A RETURN OF THE GENERAL, and OFFCERS in <hi>Scotland,</hi> thereunto.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>Chriſtopher Higgins,</hi> in <hi>Harts</hi> Cloſe, over againſt the Trone-Church, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:98781:2"/>
+            <pb n="3" facs="tcp:98781:2"/>
+            <head>The Anſwer of the Officers at <hi>Whitehall,</hi> to the Letter from the Officers of the Parliaments Army in <hi>Scotland,</hi> from <hi>Linlithgow, Octob. 22.</hi>
+            </head>
+            <opener>
+               <salute>Dear Brethren, and Fellow Souldiers,</salute>
+            </opener>
+            <p>WE moſt heartily wiſh Grace and Truth to be multiplyed unto you, through the knowledge of God, and of Jeſus our Lord; And alſo we deſire the God and Father of all Grace, to add to your Faith, Vertue; and to Vertue, Knowledge; and to Knowledge, Temperance; and to Temperance, Godlineſſe; and to Godlineſſe, Brotherly-kindneſs; and to Brotherly-kindneſs, Charity.</p>
+            <p>Dear Brethren, We cannot but be deeply affected and afflicted in our own ſpirits, to conſider of your diſſatisfaction with us upon miſta<g ref="char:EOLhyphen"/>ken grounds. You have known us theſe many years to be your faith<g ref="char:EOLhyphen"/>ful Brethren, that durſt do dothing that is ſinful; And we may affirm with plainneſs, honeſty, and ſimplicity of heart, we have done nothing in the late Revolution, but that which the Providence of the moſt wiſe God prepared to our hands, and led us out unto, without ſo much as one half hours time to deſign or reſolve to take that courſe we were neceſſitated unto; Since which moſt of ſuch perſons that were not clear in the preſent and ſudden Action, have made their acknowledgement of their full ſatisfaction, and we are mutually reconciled, and they are received and rendered by us as affectionate Brethren; And from a more full Narrative of the providential Grounds, and gradual Steps that led us to that work, (yet with aking hearts) and as an Anſwer to your Queries, ſigned in your Name by <hi>William Clark</hi> Secretary, bearing date the 22 Inſtant: We refer you to a Book Intituled, <hi>The Armies Plea,</hi> And alſo, The Armies Declaration; relation thereunto being had, we hope will give you ſatifaction.</p>
+            <p>Loving Brethren, What have we done, that you are offended? We are not conſcious, that any thing is acted by us upon the Publick Thea<g ref="char:EOLhyphen"/>ter, but that which we judge is acceptable to God; And what we have done hath proceeded from uprightneſs of heart, and for the glory of God, the good of his Intereſt, Cauſe and People in theſe Nations; No<g ref="char:EOLhyphen"/>thing leſs than theſe worthy ends could have cauſed us to adventure our <hi>All</hi> that is dear to us for your and their ſakes; And after ſuch a hazard, our Brethren to look ſhy upon us, yea ſuch, with whom we have lived &amp; converſed together, prayed, fought, &amp; jeoparded our lives together, And witneſſes together of the glory of the moſt high God, in the high
+<pb n="4" facs="tcp:98781:3"/>places of the field; Yea, we, that are of one Society, of one Family and Houſhold, that none hitherto (through the grace of God) could diſ<g ref="char:EOLhyphen"/>unite us, now to be at a diſtance with us, is the greateſt wound to us, which is unexpreſſable: If it had been from our Enemies, we could have born it; Oh but, they are the wounds of the houſe of our Friends. And all this ariſing without dealing brotherly with us, and without ſo much as ſending to know the providential Grounds that led us to theſe Undertakings; And likewiſe your and our unhappineſs hath been poſſibly by miſinformations received by thoſe who have correſponded with the principal occaſioners of this Breach; However we are cenſured by you, we ſhall, we hope, carry Chriſtianly and Brotherly towards you, and exerciſe our ſelves in the Doctrine of our Saviour, <hi>If any be overta<g ref="char:EOLhyphen"/>ken in a fault, restore ſuch a one in the ſpirit of meekneſs, knowing alſo we are ſubject to like temptations;</hi> And we ought to pity and pray for one another, and forgive one another, <hi>even as God for Chriſts ſake hath for<g ref="char:EOLhyphen"/>given us;</hi> We hope the fear of God will guide you, ſo that you may do nothing to grieve Him and his little Flock, and rejoyce the common Enemy abroad and at home, nor give them advantages to make a prey of theſe poor Nations: What can you propound to your ſelves? If you are for good things, So are we; If for a Free-State and Commonwealth, So are we; If againſt a ſingle Perſon, So are we; If for Reformation, So are we; If for Godlineſs, and the Nations to be exalted in Righteouſ<g ref="char:EOLhyphen"/>neſs, So are we; Why do we differ in the form and way to it? Oh, dear friends, if you ſhould precipitately engage into a War, and ſhould con<g ref="char:EOLhyphen"/>quer your Brethren, Would not the conſequence be a Conqueſt over your ſelves, and all the good People of the Land? And if they are gone, certainly (if you retain your old Principles) you would not deſire to live long after them.</p>
+            <p>
+               <hi>Precious Brethren,</hi> We commend unto you that place of Scripture, <hi>Joſh.</hi> 1.14, 15. We ſhall with our bended knees implore the God of Heaven, and King of Saints, to guide you, and perſwade you, as holy <hi>Noah</hi> ſaid in another caſe, <hi>Gen.</hi> 9.27. <hi>God ſhall perſwade</hi> Japhet <hi>to dwell in the tents of Shem.</hi> Finally, Brethren, Farewell, <hi>Be of good comfort, Let us be of one minde, live in peace, and the God of love and peace ſhall be with you and us;</hi> We remain</p>
+            <closer>
+               <signed>Your moſt affectionate Brethren and Fellow-Souldiers.</signed>
+            </closer>
+            <postscript>
+               <p>Dear Friends, We hope to hear, in your Anſwer to this, that all our dear Friends now in Bonds, are at Liberty, and that the Lord hath ſatisfied your heart to ac<g ref="char:EOLhyphen"/>quieſce in his preſent Diſpenſations, ſo as we may not expoſe each other to fur<g ref="char:EOLhyphen"/>ther Inconveniency.</p>
+            </postscript>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:98781:3"/>
+            <head>A RETURN of the General and Officers in <hi>Scotland,</hi> to the ANSWER of the Officers at <hi>Whitehall.</hi>
+            </head>
+            <opener>
+               <salute>Dear Brethren, and Fellow-Soldiers in the Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N the Name of our Lord Jeſus Chriſt, We return you our moſt hearty wiſhes and prayers, That Grace, and Truth, &amp; Peace alſo, might be multiplied unto you, And that to your Faith, and your Vertue, and your Know<g ref="char:EOLhyphen"/>ledg, and your Temperance, and your Godlineſs, and your Brotherly kindneſs, and your Charity, might be added, Patience, and Meekneſs, and Humility, and Self-denial. Great are the thoughts of our hearts for the divſions in <hi>Reuben,</hi> and we are (as you expreſs it) deeply affected and afflicted in our own Spirits, when we conſider what cauſe we have to be diſſatisfied with you, our dear Brethren; you, with whom we have lived and converſed together; with whom we have prayed, and ſought, and jeoparded our lives together; with whom we have taken ſweet Counſel, and walked together in the Houſe of God as friends: But we cannot conceal from you, that our affection and affliction of Spirit is much increaſed by the Letter you ſent us by Captain <hi>Deane,</hi> and by the Books you referred us to, in that Letter. We had before ſome ſmall (indeed our only) hopes that there might be ſome miſtake between us, but alas! we cannot but now think (ſince we find you have no more to ſay for your ſelvs) that our fears were but too true, and the cauſes of our diſſatisfaction at your preſent actings but too juſt: We ſhall deal with you with that plain<g ref="char:EOLhyphen"/>neſs, and freedom, and ſincerity that becometh Brethren, for ſo we think it becometh us, <hi>to fulfill all righteouſneſs;</hi> and ſo we think it expedient, both for you and us, that we may the ſooner come to a right Underſtanding one of another.</p>
+            <p>We could not be ſatisfied that there was any ſuch need of more Generall Officers (the firſt occaſion of this unhappy difference) as that the Parliament ſhould be preſſed to it ſo unſeaſonably, and ſo juſt a Jealouſie created in them, that there was a Deſign to ſet up a Single Perſon (of which they had but ſo late, and ſo ſad experience) and we could not but think it ſufficient for the ſecurity of the good In<g ref="char:EOLhyphen"/>tereſt, that the <hi>Army</hi> was united under one Head, the Parliament.</p>
+            <pb n="6" facs="tcp:98781:4"/>
+            <p>We were leſs ſatisfied, that after you declared your Satisfaction and Acquieſcence in the Votes of the Houſe, you ſhould endeavour by a new way to wreſt the Power out of their own hands, and to pro<g ref="char:EOLhyphen"/>ſecute the ſame Deſign; Thus making the <hi>Army</hi> a Corporation in a manner independent from the Civil Power, and creating to it an In<g ref="char:EOLhyphen"/>tereſt, diſtinct from that of the Peoples, by whom they hitherto have, and ſtill muſt live, and for whom they are, by their Engagements and Duties bound to dy; and that, after you knew the Parliament had in effect diſapproved your Petition, you ſhould ſtill endeavour to get more hands to it, which neither the Parliament, nor we our ſelves could look upon, any otherwiſe, than as a Deſign to force the Par<g ref="char:EOLhyphen"/>liament to grant what they had already in effect diſapproved, if not to do that which you ſay was done at leſs than half an hour's warn<g ref="char:EOLhyphen"/>ing.</p>
+            <p>But then, that after the ſad experience of ſo many Confuſions and toſſings, which theſe poor Nations had already felt by ſuch actings as theſe, after the unhappy (and ſince acknowledged unlawful) former Interruption of that (by your ſelves called) <hi>famous long Parlia<g ref="char:EOLhyphen"/>ment,</hi> after the Confuſions and Diſtractions of that <hi>little one</hi> of your own, and not of the Peoples chooſing; after the occaſion by them gi<g ref="char:EOLhyphen"/>ven to ſome of ſetting up, and the Neceſſity impoſed on us of accepting a Single Perſon contrary to our former Engagements, and to our Inte<g ref="char:EOLhyphen"/>reſts; after our late renewed Engagement, and our ſolemn and ſerious expreſſions of Repentance, That you ſhould ſo ſoon return to your former Sin, and for the apparant Intereſt of nine or ten Perſons (who how precious ſoever, yet cannot be worth the blood that may be ſhed in this quarrel) to put a new force upon the Parliament, and to deſtroy all Lawfull Authority in the three Nations, and to put them out of hopes of ever having any for the future, but what ſhall be at your diſ<g ref="char:EOLhyphen"/>poſals; and to do theſe things in the Name of the whole <hi>Army,</hi> there<g ref="char:EOLhyphen"/>by uſurping a Power over your Brethren, to which you have no right, and involving us in the ſame guilt with You, in thoſe Actings, againſt which we are bound to Proteſt before God and Man; This is that which lies the foreſt upon our Spirits; this is that which wounds us deepeſt.</p>
+            <p>This is that which muſt of Neceſſity make the three Nations ſlaves to the <hi>Army,</hi> The <hi>Armies</hi> of <hi>Scotland</hi> and <hi>Ireland,</hi> ſlaves to that of <hi>England,</hi> and that of <hi>England</hi> to nine or ten Perſons; and perhaps
+<pb n="7" facs="tcp:98781:4"/>in ſhort time thoſe nine or ten, to one Single One: The beſt effect it can have, muſt be that which you ſo much complain of, in the <hi>Armies Plea,</hi> Pag. 25.</p>
+            <p>That all the pious and good People of this Nation ſhall not enjoy a peaceable and quiet life in all Godlineſſe and Honeſty, but onely ſome part of them.</p>
+            <p>We cannot but in the Name of the Lord tell you that theſe Actings make us ſtink in the Noſtrils of the good People, and cauſe the Name of God to be evil ſpoken of, and his Enemies to rejoyce.</p>
+            <p>And yet you ſay, Behold, what have we done? and tell us in many, but very general terms, what good things you are for: We like<g ref="char:EOLhyphen"/>wiſe are for good things, as well as you; We are for a free State and Commonwealth as well as you, We are againſt a Single Perſon as wel as you; We are for the Reformation as well as you; We are as well as you for Godlineſs, and the Nations to be exalted in Righte<g ref="char:EOLhyphen"/>ouſneſs; if ſo be that you be indeed for theſe things, which you pretend, and that we differ not in the end, as well as in the way to it.</p>
+            <p>But how can you be for good things, as long as you do that which is evil? How can you be for a Free-State and Commonwealth, if, for the Intereſt of nine or ten Perſons, You diſſolve Parliaments? To what purpoſe is it to be againſt a Single Perſon, if you be for nine or ten? or for Reformation, if you return ſo ſoon to former Sins? Or, how can Godlineſſe or Righteouſneſſe be Exalted, by violent and un<g ref="char:EOLhyphen"/>warrantable means?</p>
+            <p>
+               <hi>Brethren,</hi> Our daily prayer to God is, That we may not be neceſſi<g ref="char:EOLhyphen"/>tated to a War with you; but, if we be, we muſt tell you, that we do not precipitate our ſelves, or run raſhly, or inconſiderately into it; We have had time, ſadly and ſeriouſly to conſider the whole Mat<g ref="char:EOLhyphen"/>ter, and we muſt deal plainly with you, and tell you, that what you pretend, You had not half an hours time to deliberate about, We have expected from you ſome weeks; We could not but take notice that the occaſion both of Calling and Interrupting this Parliament, was the making of General Officers.</p>
+            <p>How little deſire we have of making a conqueſt over you, He knows who knows how little joy, we ſhould take in it; If there were not ſomething in the Quarrel that is dearer to us <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ourlives, we ſhould never undertake it.</p>
+            <pb n="8" facs="tcp:98781:5" rendition="simple:additions"/>
+            <p>And now, Brethren, as yet dear and precious in our eyes, we be<g ref="char:EOLhyphen"/>ſeech you for the mercies of Jeſus Chriſt to lay theſe things to heart; and, as we have done with <hi>John.</hi> 1. ver. 14, 15. ſo to reflect ſeriouſly upon <hi>Joſh.</hi> 7. ver. 19. and once more to take the ſhame to your ſelves, and <hi>to Repent with a Repentance not to be repented of.</hi> Conſider whoſe bloud is to be ſhed on both ſides, what Cauſe it is that lyes at ſtake, who they are that are like to reap the benefit of our Contenti<g ref="char:EOLhyphen"/>ons; Suffer not <hi>Self</hi> or <hi>Interest,</hi> nor deſire of the things of this world, to entangle you again in the ſame ſnare out of which you have ſo lately eſcaped: Lay not up your Treaſure in this world, But ſeek firſt the Kingdom of Heaven; Do not evil, becauſe you think good may come of it.</p>
+            <p>
+               <hi>Finally, Brethren, ſtand faſt in that Liberty wherein Chriſt hath made you free, and be not extangled again with the Yoke of Bondage. The grace of our Lord Jeſus Chriſt be with you, Amen.</hi>
+            </p>
+            <closer>
+               <dateline>EDINBURGH,
+<date>
+                     <hi>Novemb.</hi> 7. 1659,</date>
+               </dateline>
+               <signed>Your moſt affectionate and afflictive Brethren and Fellow-Soldiers.</signed>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <opener>
+                  <salute>Dear Brethren,</salute>
+               </opener>
+               <p>WE intreat you, put not ſo hard a name upon the neceſſary and ſhort reſtraint of our Brethren, as Bonds; We ſtill own them and uſe them as Brethren; their Pay is ſtill continued to them, and the Reſtraint put upon them, for their, and your, and our Security, and the Security of all Gods People, we hope will be very ſhort, ſhorter than either you or we can expect: And take it not ill we acted any thing without firſt ſending to you, We acted nothing but what was neceſſary to our preſent ſafety, and we immediately ſent our Letters to you, which If they came not to your hands, it is not our faults. We have lately ſeat Commiſſioners, Men faithfull and approved, whom we hope you will treat as Brethren.</p>
+               <p>
+                  <hi>For the Right Honorable the Lord</hi> Fleetwood, <hi>and the reſt of the Officers of that part of the Army at</hi> London.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98781:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
